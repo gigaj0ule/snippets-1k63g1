@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gigaj0ule.github.io/snippets-1k63g1/sitemap.xml
